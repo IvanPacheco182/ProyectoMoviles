@@ -1,0 +1,37 @@
+[
+	{
+		"question": "¿Cuántos bits hay en una dirección ipv4?",
+		"optA": "4",
+		"optB": "8",
+		"optC": "16",
+		"answer": "32"
+	},
+	{
+		"question": "Tipo de VLAN que se identifica con un ID entre 1006 y 4094",
+		"optA": "De datos",
+		"optB": "Predeterminada",
+		"optC": "Nativa",
+		"answer": "extendida"
+	},
+	{
+		"question": "¿Cuántos bits tiene un byte?",
+		"optA": "4",
+		"optB": "62",
+		"optC": "9",
+		"answer": "8"
+	},
+	{
+		"question": "¿Cuál es la extensión de los programas de cisco?",
+		"optA": ".red",
+		"optB": ".cis",
+		"optC": ".apk",
+		"answer": ".pkt"
+	},
+	{
+		"question": "Comando para configurar una terminal",
+		"optA": "enable",
+		"optB": "terminal configuration",
+		"optC": "configuration terminal",
+		"answer": "configure terminal"
+	}
+]
